@@ -1,0 +1,78 @@
+
+
+body {
+    background-image: url(assets/study-table.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.main {
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 220px;
+    padding: 20px;
+    height: 555px;
+    width: 100;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.bttn {
+    height: 40px;
+    width: 50px;
+    padding: 10px;
+    border-radius: 30px;
+    cursor: pointer;
+    color: cyan;
+    background-color: black;
+}
+
+.border {
+    overflow: auto;
+    border: 2px solid black;
+    height: 555px;
+    width: 100;
+    padding-top: 10px;
+}
+
+.box {
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 380px;
+    width: 380px;
+    padding: 20px;
+}
+
+.container {
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3em;
+}
+
+.boxs {
+    height: 380px;
+    width: 380px;
+}
+
+
+.end {
+    height: 60px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 30px;
+}
+
+.moral {
+    border: 2px solid red;
+    margin-left: 180px;
+    margin-right: 180px;
+    border-radius: 40px;
+    margin-top: 50px;
+    color: rgb(16, 137, 242);
+    height: 60px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+    font-size: 23px;
+}
